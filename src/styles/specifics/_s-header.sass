@@ -2,9 +2,14 @@
 
     &__lines
         position: absolute
-        top: 140px
         width: 100%
         z-index: -1 // make sure SVG overlaps lines
+
+        +mobile
+            top: 91px
+
+        +tablet-desktop
+            top: 140px
 
     &__line
         position: absolute
@@ -15,18 +20,37 @@
         &.--one
           top: 0px
 
-        &.--two
-            top: 15px
+        +mobile
+            &.--two
+                top: 10px
 
-        &.--three
-            top: 30px
+            &.--three
+                top: 20px
 
-        &.--four
-            top: 45px
+            &.--four
+                top: 30px
 
-        &.--five
-            top: 60px
+            &.--five
+                top: 40px
+
+        +tablet-desktop
+            &.--two
+                top: 15px
+
+            &.--three
+                top: 30px
+
+            &.--four
+                top: 45px
+
+            &.--five
+                top: 60px
 
     &__logo
-        width: 270px
         margin-top: 3px
+
+        +mobile
+            width: 175px
+
+        +tablet-desktop
+            width: 270px
