@@ -1,0 +1,32 @@
+.s-header
+
+    &__lines
+        position: absolute
+        top: 140px
+        width: 100%
+        z-index: -1 // make sure SVG overlaps lines
+
+    &__line
+        position: absolute
+        width: 100%
+        height: 2px
+        background-color: #262526
+
+        &.--one
+          top: 0px
+
+        &.--two
+            top: 15px
+
+        &.--three
+            top: 30px
+
+        &.--four
+            top: 45px
+
+        &.--five
+            top: 60px
+
+    &__logo
+        width: 270px
+        margin-top: 3px
