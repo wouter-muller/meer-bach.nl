@@ -1,10 +1,16 @@
 .s-header
+    position: relative
+    padding-bottom: 20px
 
     &__lines
         position: absolute
-        top: 140px
         width: 100%
-        z-index: -1 // make sure SVG overlaps lines
+
+        +mobile
+            top: 108px
+
+        +tablet-desktop
+            top: 158px
 
     &__line
         position: absolute
@@ -15,18 +21,57 @@
         &.--one
           top: 0px
 
-        &.--two
-            top: 15px
+        +mobile
+            &.--two
+                top: 10px
 
-        &.--three
-            top: 30px
+            &.--three
+                top: 20px
 
-        &.--four
-            top: 45px
+            &.--four
+                top: 30px
 
-        &.--five
-            top: 60px
+            &.--five
+                top: 40px
+
+        +tablet-desktop
+            &.--two
+                top: 15px
+
+            &.--three
+                top: 30px
+
+            &.--four
+                top: 45px
+
+            &.--five
+                top: 60px
+
+    .l-wrapper
+        text-align: center
 
     &__logo
-        width: 270px
-        margin-top: 3px
+        margin-top: 20px
+        display: inline-block
+
+        +mobile
+            width: 175px
+
+        +tablet-desktop
+            width: 270px
+
+    &__menu
+        position: absolute
+        right: 0
+        top: 90px
+
+        ul
+            display: flex
+
+        li
+            margin-left: 20px
+
+        a
+            font-size: 20px
+            text-decoration: none
+            color: darken(#87C6CF, 30%)
