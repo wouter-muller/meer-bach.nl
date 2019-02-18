@@ -9,5 +9,13 @@
 	"payment-button": "Steun ons met een donatie (via iDEAL)",
 	"counter-title": "Klavecimbel teller",
 	"counter-paragraph": "Op dit moment hebben wij nog € 3.000 nodig.",
-	"payment-button2": "Steun ons met een donatie (via iDEAL)"
+	"payment-button2": "Steun ons met een donatie (via iDEAL)",
+	"newsletter-title": "Wilt u zich inschrijven voor onze nieuwsbrief?",
+	"footer-title": "Contact",
+	"footer-address": [
+		"\n                                Stichting MeerBach\n                            ",
+		"Meerhoven 21",
+		"9613 AZ Meerstad"
+	],
+	"footer-kvk": "KVK: 73472646"
 }
