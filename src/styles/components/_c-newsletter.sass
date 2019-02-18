@@ -3,8 +3,9 @@
     text-align: center
 
     &__wrapper
-        display: flex
-        justify-content: center
+        +tablet-desktop
+            display: flex
+            justify-content: center
 
     &__input
         height: 50px
@@ -12,9 +13,14 @@
         font-family: Quattrocento
         padding: 0 10px
         margin-bottom: 20px
-        width: 350px
         margin-right: 10px
         border: 1px solid #367d87
+
+        +mobile
+            width: 100%
+
+        +tablet-desktop
+            width: 350px
 
     &__submit
         height: 50px
