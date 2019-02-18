@@ -6,5 +6,16 @@
 		"Het klavecimbel is een snaarinstrument wat met toetsen wordt bespeeld en was van de 16e eeuw tot en met de 18e eeuw het belangrijkste toetsinstrument.",
 		"Op dit moment zamelen wij geld in voor de bouw van een nieuw klavecimbel voor de Stichting. Dit is een replica van het klavecimbel dat door Michael Mietke voor het hof van Köthen is gebouwd, en waarvoor Bach waarschijnlijk het vijfde Brandenburgse concert heeft geschreven en uitgevoerd."
 	],
-    payment-button: "Steun ons met een donatie<br>(via iDEAL)"
+	"payment-button": "Steun ons met een donatie (via iDEAL)",
+	"counter-title": "Klavecimbel teller",
+	"counter-paragraph": "Op dit moment hebben wij nog € 3.000 nodig.",
+	"payment-button2": "Steun ons met een donatie (via iDEAL)",
+	"newsletter-title": "Wilt u zich inschrijven voor onze nieuwsbrief?",
+	"footer-title": "Contact",
+	"footer-address": [
+		"Stichting MeerBach",
+		"Meerhoven 21",
+		"9613 AZ Meerstad"
+	],
+	"footer-kvk": "KVK: 73472646"
 }
