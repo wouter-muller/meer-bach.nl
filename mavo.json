@@ -8,7 +8,7 @@
 	],
 	"payment-button": "Steun ons met een donatie (via iDEAL)",
 	"counter-title": "Klavecimbel teller",
-	"counter-paragraph": "Op dit moment hebben wij nog € 30.000 nodig.",
+	"counter-paragraph": "Op dit moment hhebben wij nog € 30.000 nodig.",
 	"payment-button2": "Steun ons met een donatie (via iDEAL)",
 	"newsletter-title": "Wilt u zich inschrijven voor onze nieuwsbrief?",
 	"footer-title": "Contact",
@@ -21,5 +21,11 @@
 	"contact-title": "Contact",
 	"contact-subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 	"contact-paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, praesentium laboriosam consequatur minima ipsum itaque est eligendi voluptatum officia sequi esse illum, veritatis, laudantium culpa! Mollitia ipsam harum repellendus dolor!",
-	"menu-home": "Home"
+	"menu-home": "Home",
+	"menu-about-us": "Over ons",
+	"menu-projects": "Projecten",
+	"menu-bestuur": "Bestuur",
+	"menu-support-us": "Steun ons",
+	"menu-anbi": "Anbi",
+	"menu-contact": "Contact"
 }
