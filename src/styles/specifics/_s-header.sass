@@ -1,8 +1,13 @@
 .s-header
     position: relative
-    padding-bottom: 40px
     padding-top: 10px
     box-shadow: 0 0 10px 5px rgba(#666, 0.5)
+
+    +mobile
+        padding-bottom: 30px
+
+    +tablet-desktop
+        padding-bottom: 40px
 
     &__lines
         position: absolute
@@ -63,7 +68,7 @@
         display: inline-block
 
         +mobile
-            margin-top: 10px
+            margin-top: 19px
             width: 165px
 
         +tablet-desktop
