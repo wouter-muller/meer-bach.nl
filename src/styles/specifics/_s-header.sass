@@ -1,16 +1,16 @@
 .s-header
     position: relative
-    padding-bottom: 20px
+    padding-bottom: 50px
 
     &__lines
         position: absolute
         width: 100%
 
         +mobile
-            top: 108px
+            top: 34px
 
         +tablet-desktop
-            top: 158px
+            top: 55px
 
     &__line
         position: absolute
@@ -47,19 +47,28 @@
             &.--five
                 top: 60px
 
-    .l-wrapper
-        text-align: center
+    &__text-logo
+        font-weight: bold
+        letter-spacing: 7px
+
+        +mobile
+            font-size: 26px
+            margin-top: 10px
+
+        +tablet-desktop
+            margin-top: 30px
+            font-size: 46px
 
     &__logo
         display: inline-block
 
         +mobile
-            margin-top: 26px
+            margin-top: 10px
             width: 165px
 
         +tablet-desktop
-            margin-top: 31px
-            width: 254px
+            margin-top: 10px
+            width: 260px
 
     &__menu
         position: absolute
