@@ -1,9 +1,14 @@
 .c-hero
-    background-image: url('/dist/img/clavecimbel-closeup.jpg')
     background-size: cover
     background-position: center center
     display: flex
     align-items: center
+
+    +mobile
+        background-image: url('/dist/img/clavecimbel-closeup.jpg')
+
+    +tablet-desktop
+        background-image: url('/dist/img/clavecimbel-closeup-large.jpg')
 
     &__text-overlay
         background-color: rgba(white, 0.8)
