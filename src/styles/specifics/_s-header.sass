@@ -1,16 +1,18 @@
 .s-header
     position: relative
-    padding-bottom: 50px
+    padding-bottom: 40px
+    padding-top: 10px
+    box-shadow: 0 0 10px 5px rgba(#666, 0.5)
 
     &__lines
         position: absolute
         width: 100%
 
         +mobile
-            top: 34px
+            top: 54px
 
         +tablet-desktop
-            top: 55px
+            top: 75px
 
     &__line
         position: absolute
@@ -53,10 +55,8 @@
 
         +mobile
             font-size: 26px
-            margin-top: 10px
 
         +tablet-desktop
-            margin-top: 30px
             font-size: 46px
 
     &__logo
@@ -67,13 +67,16 @@
             width: 165px
 
         +tablet-desktop
-            margin-top: 10px
+            margin-top: 20px
             width: 260px
 
     &__menu
         position: absolute
         right: 0
-        top: 90px
+        top: 25px
+
+        +mobile-tablet
+            display: none
 
         ul
             display: flex
@@ -82,6 +85,10 @@
             margin-left: 20px
 
         a
-            font-size: 20px
+            font-size: 18px
+            font-weight: bold
             text-decoration: none
             color: darken(#87C6CF, 30%)
+
+            &:hover
+                color: darken(#87c6cf, 50%)
