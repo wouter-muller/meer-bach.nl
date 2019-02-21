@@ -27,5 +27,15 @@
 	"menu-bestuur": "Bestuur",
 	"menu-support-us": "Steun ons",
 	"menu-anbi": "Anbi",
-	"menu-contact": "Contact"
+	"menu-contact": "Contact",
+	"events": [
+		{
+			"event-date": "1 Juni 2019",
+			"event-title": "Concert in Vera"
+		},
+		{
+			"event-date": "12 April 2019",
+			"event-title": "Nog een concert in Vera"
+		}
+	]
 }
