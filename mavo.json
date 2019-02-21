@@ -30,11 +30,14 @@
 	"menu-contact": "Contact",
 	"events": [
 		{
-			"event-date": "1 Juni 2019",
+			"event-date": "01-06-2019",
 			"event-title": "Concert in Vera"
 		},
 		{
-			"event-date": "12 April 2019",
+			"event-date": "01-02-2019"
+		},
+		{
+			"event-date": "12-04-2019",
 			"event-title": "Nog een concert in Vera"
 		}
 	]
