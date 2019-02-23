@@ -32,12 +32,14 @@
 		{
 			"event-date": "01-02-2019",
 			"event-title": "Eurosonic/Noorderslag",
-			"event-location": "Vera, Groningen"
+			"event-location": "Vera, Groningen",
+			"event-time": "21:00"
 		},
 		{
 			"event-date": "12-04-2019",
 			"event-title": "Lowlands",
-			"event-location": "Oosterpoort, Groningen"
+			"event-location": "Oosterpoort, Groningen",
+			"event-time": "22:00"
 		},
 		{
 			"event-date": "01-06-2019",
