@@ -44,12 +44,15 @@
 		{
 			"event-date": "01-06-2019",
 			"event-title": "Pinkpop",
-			"event-location": "Conservatorium, Amsterdam"
+			"event-location": "Conservatorium, Amsterdam",
+			"event-time": "18:00"
 		},
 		{
 			"event-date": "02-06-2019",
 			"event-title": "Pinkpop",
-			"event-location": "Conservatorium, Amsterdam NL"
+			"event-location": "Conservatorium, Amsterdam NL",
+			"event-time": "14:30"
 		}
-	]
+	],
+	"menu-agenda": "Agenda"
 }
