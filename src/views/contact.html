@@ -1,0 +1,44 @@
+<!doctype html>
+
+<html>
+<head>
+    <!-- @include "head.kit" -->
+</head>
+
+<body>
+    <div mv-app="mavo" mv-storage="https://github.com/wouter-muller/meer-bach.nl">
+        <!-- @include "header.kit" -->
+
+        <div class="c-content">
+            <div class="l-wrapper --small">
+
+                <h1 class="c-heading --xxl" >Contact</h1>
+                <h2 class="c-heading --xl" property="contact-subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h2>
+                <p property="contact-paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, praesentium laboriosam consequatur minima ipsum itaque est eligendi voluptatum officia sequi esse illum, veritatis, laudantium culpa! Mollitia ipsam harum repellendus dolor!</p>
+
+                <form name="contact" netlify>
+                  <p>
+                    <label class="c-label">Naam</label>
+                    <input class="c-input" type="text" name="name" />
+                </p>
+                <p>
+                    <label class="c-label">E-mail adres</label>
+                    <input class="c-input" type="email" name="email" />
+                </p>
+                <p>
+                    <label class="c-label">Opmerkingen</label>
+                    <textarea class="c-textarea" name="comments"></textarea>
+                </p>
+                <p>
+                    <button class="c-button" type="submit">Versturen</button>
+                </p>
+                </form>
+            </div>
+        </div>
+        <!-- @include "counter.kit" -->
+        <!-- @include "footer.kit" -->
+
+    </div>
+</body>
+
+</html>

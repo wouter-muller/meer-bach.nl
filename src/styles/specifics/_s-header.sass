@@ -1,7 +1,8 @@
 .s-header
     position: relative
     padding-top: 10px
-    box-shadow: 0 0 10px 5px rgba(#666, 0.5)
+    // box-shadow: 0 0 10px 5px rgba(#666, 0.5)
+    background-color: white
 
     +mobile
         padding-bottom: 30px
@@ -54,6 +55,9 @@
             &.--five
                 top: 60px
 
+    &__container
+        position: relative
+
     &__text-logo
         font-weight: bold
         letter-spacing: 7px
@@ -75,25 +79,68 @@
             margin-top: 20px
             width: 260px
 
+    &__mobile-menu-link
+        position: absolute
+        right: 10px
+
+        +mobile
+            top: 48px
+
+        +tablet
+            top: 78px
+
+        +desktop
+            display: none
+
+        button
+            background-color: white
+            padding: 5px 10px
+            font-size: 21px
+            font-family: Lato
+            font-weight: bold
+
     &__menu
         position: absolute
         right: 0
         top: 25px
 
         +mobile-tablet
-            display: none
+            transition: transform 0.3s ease-out
+            transform: translateX(100%)
+            top: 0
+            right: 0
+            background-color: rgba(black, 0.8)
+            padding: 50px 70px 50px 50px
+            z-index: 100
 
         ul
-            display: flex
+            +mobile-tablet
+                margin: 0
+
+            +desktop
+                display: flex
 
         li
-            margin-left: 20px
+            +mobile-tablet
+                margin: 0
+
+            +desktop
+                margin-left: 20px
 
         a
-            font-size: 18px
             font-weight: bold
             text-decoration: none
             color: darken(#87C6CF, 30%)
+
+            +mobile-tablet
+                padding: 10px 0
+                color: white
+                font-size: 30px
+                display: block
+
+            +desktop
+                font-size: 18px
+
 
             &:hover
                 color: darken(#87c6cf, 50%)

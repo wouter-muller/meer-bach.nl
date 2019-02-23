@@ -1,0 +1,24 @@
+.c-table
+    text-align: left
+
+    +tablet-desktop
+        width: 100%
+        border-collapse: collapse
+        display: table
+
+    &__row
+        +mobile
+            margin-bottom: 20px
+
+        +tablet-desktop
+            display: table-row
+
+            &:nth-child(odd)
+                background-color: lighten(#367d87, 59%)
+
+    &__cell
+        font-size: 20px
+
+        +tablet-desktop
+            display: table-cell
+            padding: 5px 20px 5px 0
