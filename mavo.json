@@ -38,5 +38,5 @@
 		}
 	],
 	"menu-agenda": "Agenda",
-	"projects-content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque aperiam unde amet aspernatur ipsa veritatis cupiditate delectus, aliquam iure, reiciendis placeat. Tempora facilis quidem sapiente <a href=\"https://google.com\">provident</a> iusto reprehenderit, minima sed!&nbsp; &nbsp;<img src=\"dist/img/clavecimbel.jpg\" alt=\"\" />"
+	"projects-content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque aperiam unde amet aspernatur ipsa veritatis cupiditate delectus, aliquam iure, reiciendis placeat. Tempora facilis quidem sapiente <a href=\"https://google.com\">provident</a> iusto reprehenderit, minima sed!<br /><br />Lorem ipsum."
 }
