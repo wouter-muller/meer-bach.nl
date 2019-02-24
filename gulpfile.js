@@ -73,9 +73,9 @@ gulp.task('img', function() {
 
 gulp.task('js', function() {
   return gulp
-    .src(config.sourceDir + '/scripts/**/*')
+    .src(config.sourceDir + '/scripts/modules/**/*')
     .pipe(concat('scripts.js'))
-    .pipe(uglify())
+    // .pipe(uglify())
     .pipe(gulp.dest(config.outputDir + '/js'));
 });
 
