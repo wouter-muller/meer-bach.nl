@@ -48,6 +48,6 @@
 	"contact-name": "Naam",
 	"contact-email": "E-mail adres",
 	"contact-comments": "Opmerkingen",
-	"contact-submit-button": 0,
+	"contact-submit-button": "Versturen",
 	"footer-copyright": "Stichting MeerBach © 2019"
 }
