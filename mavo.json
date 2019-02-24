@@ -44,7 +44,7 @@
 		}
 	],
 	"menu-agenda": "Agenda",
-	"projects-content": "<li>Openingsconcert</li>\n<li>Klavecimbelproject met onder andere benefietconcerten</li>\n<li>Basisonderwijs Project</li>\n<li>Concerten in samenwerking met het Luthers Bach Ensemble</li>\n<li>&nbsp;</li>",
+	"projects-content": "<ul>\n<li>Openingsconcert</li>\n<li>Klavecimbelproject met onder andere benefietconcerten</li>\n<li>Basisonderwijs Project</li>\n<li>Concerten in samenwerking met het Luthers Bach Ensemble</li>\n</ul>",
 	"contact-name": "Naam",
 	"contact-email": "E-mail adres",
 	"contact-comments": "Opmerkingen",
