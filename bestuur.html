@@ -19,7 +19,7 @@
 </head>
 
 <body>
-    <div mv-app="mavo" mv-storage="https://github.com/wouter-muller/meer-bach.nl">
+    <div mv-app="mavo" mv-storage="https://github.com/wouter-muller/meer-bach.nl" mv-plugins="tinymce">
         <header class="s-header">
     <div class="s-header__lines">
         <div class="s-header__line --one"></div>
@@ -58,27 +58,11 @@
 </header>
 
         <div class="c-content">
-            <div class="l-wrapper --small">
+            <div class="l-wrapper">
+                <h1 class="c-heading --xxl" property="board-title">Bestuur</h1>
 
-                <h1 class="c-heading --xxl" property="contact-title"></h1>
+                <p property="board-content" class="tinymce">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, asperiores delectus nostrum, unde sequi commodi cupiditate sint enim voluptate adipisci reiciendis quam sunt ipsam reprehenderit ea. Accusamus ipsum, repellendus. Incidunt!</p>
 
-                <form name="contact" netlify>
-                  <p>
-                    <label class="c-label" property="contact-name"></label>
-                    <input class="c-input" type="text" name="name" />
-                </p>
-                <p>
-                    <label class="c-label" property="contact-email"></label>
-                    <input class="c-input" type="email" name="email" />
-                </p>
-                <p>
-                    <label class="c-label" property="contact-comments"></label>
-                    <textarea class="c-textarea" name="comments"></textarea>
-                </p>
-                <p>
-                    <button class="c-button" type="submit" property="contact-submit-button" mv-attribute="none"></button>
-                </p>
-                </form>
             </div>
         </div>
         <div class="c-counter">
@@ -92,6 +76,36 @@
             <div>
                 <img src="../../dist/img/clavecimbel.jpg" class="c-counter__image">
             </div>
+        </div>
+    </div>
+</div>
+        <div class="c-events">
+    <div class="l-wrapper --sXmall">
+        <h2>Agenda</h2>
+        <div class="c-table">
+            <div class="c-table__row c-events__event" property="events" mv-multiple mv-attribute="none">
+                <div class="c-table__cell c-events__date js-date" property="event-date"></div>
+                <div class="c-table__cell c-events__date " property="event-time">21:00</div>
+                <div class="c-table__cell c-events__title" property="event-title"></div>
+                <div class="c-table__cell c-events__location" property="event-location"></div>
+            </div>
+        </div>
+
+    </div>
+</div>
+        <div class="c-newsletter">
+    <div class="l-wrapper">
+        <div id="mc_embed_signup">
+            <form action="https://meer-bach.us20.list-manage.com/subscribe/post?u=f9edb910c8a60198a156d18d6&amp;id=9a31f2223b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div id="mc_embed_signup_scroll">
+                    <h2 property="newsletter-title"></h2>
+                    <div class="c-newsletter__wrapper">
+                        <input class="c-input c-newsletter__input" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="E-mail adres" required>
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e4b7a807d9ef3845d9d633b54_27e278f4cc" tabindex="-1" value=""></div>
+                        <div class="clear"><input class="c-button" type="submit" value="Inschrijven" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                    </div>
+                </div>
+            </form>
         </div>
     </div>
 </div>

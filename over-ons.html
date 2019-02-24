@@ -14,10 +14,12 @@
 
 <link rel="stylesheet" href="https://get.mavo.io/mavo.css"/>
 <script src="https://get.mavo.io/mavo.js"></script>
+
+<link rel="icon" type="image/png" href="/favicon.png" sizes="128x128">
 </head>
 
 <body>
-    <div mv-app="mavo" mv-storage="https://github.com/wouter-muller/meer-bach.nl">
+    <div mv-app="mavo" mv-storage="https://github.com/wouter-muller/meer-bach.nl" mv-plugins="tinymce">
         <header class="s-header">
     <div class="s-header__lines">
         <div class="s-header__line --one"></div>
@@ -42,12 +44,13 @@
             <div class="s-header__menu">
                 <ul>
                     <li><a href="/" property="menu-home" mv-attribute="none"></a></li>
-                    <li><a href="/over-ons.html" property="menu-about-us" mv-attribute="none">Over ons</a></li>
-                    <li><a href="" property="menu-projects" mv-attribute="none">Projecten</a></li>
-                    <li><a href="" property="menu-bestuur" mv-attribute="none">Bestuur</a></li>
-                    <li><a href="" property="menu-support-us" mv-attribute="none">Steun ons</a></li>
-                    <li><a href="" property="menu-anbi" mv-attribute="none">Anbi</a></li>
-                    <li><a href="/contact.html" property="menu-contact" mv-attribute="none">Contact</a></li>
+                    <li><a href="/over-ons.html" property="menu-about-us" mv-attribute="none"></a></li>
+                    <li><a href="/agenda.html" property="menu-agenda" mv-attribute="none"></a></li>
+                    <li><a href="/projecten.html" property="menu-projects" mv-attribute="none"></a></li>
+                    <li><a href="/bestuur.html" property="menu-bestuur" mv-attribute="none"></a></li>
+                    <li><a href="/steun-ons.html" property="menu-support-us" mv-attribute="none"></a></li>
+                    <li><a href="/anbi.html" property="menu-anbi" mv-attribute="none"></a></li>
+                    <li><a href="/contact.html" property="menu-contact" mv-attribute="none"></a></li>
                 </ul>
             </div>
         </div>
@@ -56,27 +59,11 @@
 
         <div class="c-content">
             <div class="l-wrapper --small">
-                <h1 class="c-heading --xxl">Over ons</h1>
+                <h1 class="c-heading --xxl" property="about-us-title"></h1>
 
-                <h2 class="c-heading --xl">“Meer Bach en meer dan Bach”</h2>
+                <h2 class="c-heading --xl" property="about-us-subtitle"></h2>
 
-                <p>De Stichting MeerBach is in 2019 opgericht. De twee doelen van de stichting zijn:</p>
-
-                <ol>
-                    <li>Meer Bach: meer stukken van Bach ten gehore brengen aan een brede doelgroep. Wij willen de schoonheid en pracht van de muziek van Bach in het algemeen, en die van het klavecimbel in het specifiek bekend(er) maken onder een brede doelgroep, zoals jongeren, dertigers, etc. </li>
-
-                    <li>Meer dan Bach: er bestaat prachtige Barokmuziek op het klavecimbel die niet dezelfde bekendheid geniet als de muziek van Bach, maar die zeker de moeite waard is. Onze missie is deze muziek te laten horen aan dezelfde brede doelgroep als hierboven benoemd.</li>
-                </ol>
-
-                <p>De naam MeerBach heeft ook een derde en persoonlijke noot. De oprichter van de stichting, Robert Koolstra, is sinds 2018 woonachtig te Meerstad, een woonplaats ten oosten van de stad Groningen. Het meer horende bij Meerstad biedt een mooie balans van ontspanning en inspanning. </p>
-
-                <p>Het eerste grote project van de stichting is om een klavecimbel aan te schaffen.  Dit instrument wordt op zoveel mogelijk terreinen gebruikt om de oude muziek in het algemeen en het muziekinstrument klavecimbel in het bijzonder te promoten. Onder andere het gerenommeerde Luthers Bach Ensemble zal hier gebruik van maken.</p>
-
-                <p>Het promoten van het klavecimbel zal onder andere gebeuren door het organiseren van een serie van klavecimbel soloconcerten. Naast gevestigde namen willen we hier ook een podium bieden aan jonge, talentvolle klavecinisten.</p>
-
-                <p>In 2019 wordt er een muziekproject ontwikkeld voor het basisonderwijs om jonge kinderen in contact te brengen met klassieke muziek.</p>
-
-                <p>In het seizoen 2021/2022 zal Robert Koolstra het complete klavecimbel solowerk van Johan Sebastiaan Bach uitvoeren op het nieuwe klavecimbel en in samenwerking met de Stichting Oude Groninger Kerken in een serie van vijftien concerten.</p>
+                <p property="about-us-content" class="tinymce"></p>
 
              </div>
         </div>
@@ -126,7 +113,7 @@
                 <a href="https://www.instagram.com/stichtingmeerbach/" target="_blank">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26"><path d="M7.546 25h10.909A6.545 6.545 0 0 0 25 18.454V7.545A6.545 6.545 0 0 0 18.454 1H7.545A6.545 6.545 0 0 0 1 7.546v10.909A6.545 6.545 0 0 0 7.546 25z" fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10"/><circle cx="13" cy="13" r="6" fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10"/><circle cx="20.5" cy="5.5" r="1.5"/></svg>                </a>
             </div>
-            <p style="font-size: 14px">Stichting MeerBach © 2019</p>
+            <p style="font-size: 14px" property="footer-copyright">Stichting MeerBach © 2019</p>
         </div>
     </div>
 </div>

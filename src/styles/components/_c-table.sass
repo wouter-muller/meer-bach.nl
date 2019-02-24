@@ -14,7 +14,10 @@
             display: table-row
 
             &:nth-child(odd)
-                background-color: lighten(#367d87, 59%)
+                background-color: lighten($brand-color, 59%)
+
+            &:nth-child(even)
+                background-color: white
 
     &__cell
         font-size: 20px
