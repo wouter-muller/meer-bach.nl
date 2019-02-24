@@ -44,5 +44,10 @@
 		}
 	],
 	"menu-agenda": "Agenda",
-	"projects-content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque aperiam unde amet aspernatur ipsa veritatis cupiditate delectus, aliquam iure, reiciendis placeat. Tempora facilis quidem sapiente <a href=\"https://google.com\">provident</a> iusto reprehenderit, minima sed!<br /><br />Lorem ipsum."
+	"projects-content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque aperiam unde amet aspernatur ipsa veritatis cupiditate delectus, aliquam iure, reiciendis placeat. Tempora facilis quidem sapiente <a href=\"https://google.com\">provident</a> iusto reprehenderit, minima sed!<br /><br />Lorem ipsum.",
+	"contact-name": "Naam",
+	"contact-email": "E-mail adres",
+	"contact-comments": "Opmerkingen",
+	"contact-submit-button": 0,
+	"footer-copyright": "Stichting MeerBach © 2019"
 }
