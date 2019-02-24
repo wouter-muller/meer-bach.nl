@@ -14,7 +14,11 @@
 html,
 body
     height: 100%
-    font-family: Lato, Helvetica, Arial;
+    overflow-x: hidden
+
+body
+    font-family: Lato, Helvetica, Arial
+    background-color: lighten($brand-color, 59%)
 
 a
     outline: none
@@ -38,16 +42,25 @@ img
 
 h1,
 h2,
-p
+p,
+ul,
+ol,
     margin-bottom: 20px
     line-height: 1.4
 
-p
-    font-size: 20px
+p,
+li,
+td
+    font-size: 18px
+    color: #333
+
+li
+    margin-left: 20px
+    margin-bottom: 10px
 
 // MAVO stuff
 .mv-bar
     display: none !important
 
-[mv-permissions~="login"] .mv-bar
-    // display: block
+[mv-permissions~="edit"] .mv-bar
+    display: flex !important

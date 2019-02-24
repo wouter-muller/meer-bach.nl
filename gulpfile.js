@@ -79,13 +79,15 @@ gulp.task('js', function() {
     .pipe(gulp.dest(config.outputDir + '/js'));
 });
 
-// Example Gulp task for third-party JS
-// gulp.task('js-third-party', function() {
-//   return gulp
-//     .src('./node_modules/jquery/dist/jquery.min.js')
-//     .pipe(concat('third-party.js'))
-//     .pipe(gulp.dest(config.outputDir + '/js'));
-// });
+gulp.task('js-third-party', function() {
+  return gulp
+    .src([
+      config.sourceDir + '/scripts/vendor/mavo.min.js',
+      config.sourceDir + '/scripts/vendor/mavo-tinymce.js'
+    ])
+    .pipe(concat('third-party.js'))
+    .pipe(gulp.dest(config.outputDir + '/js'));
+});
 
 // ----------------------------------------------------------------------------
 // Clean
@@ -96,7 +98,7 @@ gulp.task('clean', function() {
 });
 
 // ----------------------------------------------------------------------------
-// Clean
+// Lint
 // ----------------------------------------------------------------------------
 
 gulp.task('lint', function() {
@@ -116,6 +118,7 @@ gulp.task('all', function() {
   gulp.start('css');
   gulp.start('img');
   gulp.start('js');
+  gulp.start('js-third-party');
 });
 
 // ----------------------------------------------------------------------------
