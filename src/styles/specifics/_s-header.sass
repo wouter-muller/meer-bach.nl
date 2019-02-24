@@ -2,12 +2,12 @@
     padding-top: 10px
     // box-shadow: 0 0 10px 5px rgba(#666, 0.5)
     background-color: white
+    position: relative
 
     +mobile
         padding-bottom: 30px
 
     +tablet-desktop
-        position: relative
         padding-bottom: 40px
 
     &__lines
@@ -101,7 +101,6 @@
             font-weight: bold
 
     &__menu
-        position: absolute
         right: 0
         top: 25px
 
@@ -113,6 +112,11 @@
             background-color: rgba(black, 0.9)
             padding: 50px 70px 50px 50px
             z-index: 100
+            position: fixed
+
+        +desktop
+            position: absolute
+
 
         &.\--active
             transform: translateX(0)
@@ -141,6 +145,9 @@
                 color: white
                 font-size: 30px
                 display: block
+
+                &:active
+                    color: darken(#87c6cf, 50%)
 
             +desktop
                 font-size: 18px
