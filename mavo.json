@@ -33,8 +33,8 @@
 	"events": [
 		{
 			"event-date": "11-05-2019",
-			"event-title": "<p>Benefietconcert Robert Koolstra</p>\n<p>Programma <br />Toccata fis-moll Bwv 910 <br />Toccata d-moll Bwv 913 <br />Toccata g-dur Bwv 916 <br />Engelse Suite a-moll Bwv 807</p>",
-			"event-location": "<p>Remonstrantse Kerk</p>\n<p>&nbsp;</p>\n<p>Coehoornsingel 14 Groningen Entree &euro;10</p>",
+			"event-title": "<p>Benefietconcert Robert Koolstra</p>\n<p>Programma <br />Toccata fis-moll Bwv 910 <br />Toccata d-moll Bwv 913 <br />Toccata g-dur Bwv 916 <br />Engelse Suite a-moll Bwv 807</p>\n<p>Entree &euro;10<br />Alle opbrengsten van dit concert gaan naar het nieuwe klavecimbel voor de Stichting.</p>",
+			"event-location": "<p>Remonstrantse Kerk<br />Coehoornsingel 14<br />Groningen</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
 			"event-time": "20:00"
 		},
 		{}
