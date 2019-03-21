@@ -32,16 +32,10 @@
 	"menu-contact": "Contact",
 	"events": [
 		{
-			"event-date": "01-02-2019",
-			"event-title": "Test",
-			"event-location": "Location",
-			"event-time": "21:00"
-		},
-		{
-			"event-date": "01-07-2019",
-			"event-time": "22:00",
-			"event-title": "Test",
-			"event-location": "Location"
+			"event-date": "11-05-2019",
+			"event-title": "Benefietconcert Robert Koolstra\n\nProgramma\n\nToccata fis-moll Bwv 910\nToccata d-moll Bwv 913\nToccata G-durBwv 916\nEngelse Suite a-moll Bwv 807\n\nToegang €10\nAlle opbrengsten van dit concert gaan naar het nieuwe klavecimbel voor de Stichting.",
+			"event-location": "Remonstrantse Kerk \nCoehoornsingel 14\nGroningen",
+			"event-time": "20:00"
 		}
 	],
 	"menu-agenda": "Agenda",
