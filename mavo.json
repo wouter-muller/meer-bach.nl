@@ -34,9 +34,10 @@
 		{
 			"event-date": "11-05-2019",
 			"event-title": "Benefietconcert Robert Koolstra \n\nProgramma Toccata fis-moll Bwv 910 Toccata d-moll Bwv 913 Toccata g-dur Bwv 916 Engelse Suite a-moll Bwv 807",
-			"event-location": "Remonstrantse Kerk Coehoornsingel 14 \n\nGroningen Entree €10",
+			"event-location": "Remonstrantse Kerk \n\nCoehoornsingel 14 Groningen Entree €10",
 			"event-time": "20:00"
-		}
+		},
+		{}
 	],
 	"menu-agenda": "Agenda",
 	"projects-content": "<ul>\n<li>Openingsconcert</li>\n<li>Klavecimbelproject met onder andere benefietconcerten</li>\n<li>Basisonderwijs Project</li>\n<li>Concerten in samenwerking met het Luthers Bach Ensemble</li>\n</ul>",
