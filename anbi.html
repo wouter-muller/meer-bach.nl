@@ -15,6 +15,7 @@
 
 <link rel="stylesheet" href="https://get.mavo.io/mavo.css"/>
 
+<script src="https://get.mavo.io/mavo.es5.min.js"></script>
 
 <link rel="icon" type="image/png" href="/favicon.png" sizes="128x128">
 </head>
@@ -63,7 +64,7 @@
             <div class="l-wrapper">
                 <h1 class="c-heading --xxl" property="anbi-title">Anbi</h1>
 
-                <p class="tinymce">De Stichting MeerBach heeft een aanvraag lopen voor een "culturele Anbi", op deze pagina worden de gegevens gepubliceerd om aan de publicatie plicht te voldoen.<br /><br />Statutaire naam: Stichting MeerBach<br />RSIN 8595.42.865&nbsp; &nbsp; &nbsp;<br />KVK 73472646<br /><br>Het bestuurswerk is onbezoldigd; ofwel het bestuur ontvangt geen vergoeding voor de voor bestuursfunctie noodzakelijke werkzaamheden.<br /><br />De stichting MeerBach beschikt niet over een directie of over personeel dat in dienst is.&nbsp; &nbsp;<br /><br />Aan het eind van het "eerste boekjaar" wordt op deze pagina een financi&euml;el overzicht gepubliceerd betreffende de baten en lasten.<br /><br /><a title="Beleidsplan Stichting MeerBach" href="public/Beleidsplan-Stichting-MeerBach.pdf" target="_blank" rel="noopener">Link naar beleidsplan</a></p>
+                <p property="anbi-content" class="tinymce"></p>
 
             </div>
         </div>
@@ -71,11 +72,11 @@
     <div class="l-wrapper">
         <h2 property="events-title">Agenda</h2>
         <div class="c-table">
-            <div class="c-table__row c-events__event" property="events" mv-multiple mv-attribute="none">
+            <div class="c-table__row c-events__event tinymce" property="events" mv-multiple mv-attribute="none" >
                 <div class="c-table__cell c-events__date js-date" property="event-date"></div>
-                <div class="c-table__cell c-events__date " property="event-time">21:00</div>
-                <div class="c-table__cell c-events__title" property="event-title"></div>
-                <div class="c-table__cell c-events__location" property="event-location"></div>
+                <div class="c-table__cell c-events__date " property="event-time"></div>
+                <div class="c-table__cell c-events__title tinymce" property="event-title"></div>
+                <div class="c-table__cell c-events__location tinymce" property="event-location"></div>
             </div>
         </div>
 

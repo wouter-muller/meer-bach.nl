@@ -15,6 +15,7 @@
 
 <link rel="stylesheet" href="https://get.mavo.io/mavo.css"/>
 
+<script src="https://get.mavo.io/mavo.es5.min.js"></script>
 
 <link rel="icon" type="image/png" href="/favicon.png" sizes="128x128">
 </head>
@@ -66,11 +67,11 @@
                 <p property="agenda-content" class="tinymce"></p>
 
                 <div class="c-table">
-                    <div class="c-table__row c-events__event" property="events" mv-multiple mv-attribute="none">
+                    <div class="c-table__row c-events__event tinymce" property="events" mv-multiple mv-attribute="none">
                         <div class="c-table__cell c-events__date js-date" property="event-date"></div>
                         <div class="c-table__cell c-events__date " property="event-time"></div>
-                        <div class="c-table__cell c-events__title" property="event-title"></div>
-                        <div class="c-table__cell c-events__location" property="event-location"></div>
+                        <div class="c-table__cell c-events__title tinymce" property="event-title"></div>
+                        <div class="c-table__cell c-events__location tinymce" property="event-location"></div>
                     </div>
                 </div>
 
