@@ -33,11 +33,16 @@
 	"events": [
 		{
 			"event-date": "11-05-2019",
-			"event-title": "<p>Benefietconcert Robert Koolstra</p>\n<p>Programma <br />Toccata fis-moll Bwv 910 <br />Toccata d-moll Bwv 913 <br />Toccata g-dur Bwv 916 <br />Engelse Suite a-moll Bwv 807</p>\n<p>Entree &euro;10<br />Alle opbrengsten van dit concert gaan naar het nieuwe klavecimbel voor de Stichting.</p>",
+			"event-title": "<p>Benefietconcert Robert Koolstra</p>\n<p>Programma <br />Toccata fis-moll Bwv 910 <br />Toccata d-moll Bwv 913 <br />Toccata G-dur Bwv 916 <br />Engelse Suite a-moll Bwv 807</p>\n<p>Entree &euro;10<br />Alle opbrengsten van dit concert gaan naar het nieuwe klavecimbel voor de Stichting.</p>",
 			"event-location": "<p>Remonstrantse Kerk<br />Coehoornsingel 14<br />Groningen</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
 			"event-time": "20:00"
 		},
-		{}
+		{
+			"event-date": "12-05-2019",
+			"event-time": "15:00",
+			"event-title": "<p>Benefietconcert Robert Koolstra</p>\n<p style=\"background-color: #f1f8f9;\">Programma&nbsp;<br />Toccata fis-moll Bwv 910&nbsp;<br />Toccata d-moll Bwv 913&nbsp;<br />Toccata G-dur Bwv 916&nbsp;<br />Engelse Suite a-moll Bwv 807</p>\n<p style=\"background-color: #f1f8f9;\">Entree &euro;10<br />Alle opbrengsten van dit concert gaan naar het nieuwe klavecimbel voor de Stichting.</p>",
+			"event-location": "<p>Liudgerkerk</p>\n<p>Zandumerweg 1</p>\n<p>Niekerk (Grootegast)</p>"
+		}
 	],
 	"menu-agenda": "Agenda",
 	"projects-content": "<ul>\n<li>Openingsconcert</li>\n<li>Klavecimbelproject met onder andere benefietconcerten</li>\n<li>Basisonderwijs Project</li>\n<li>Concerten in samenwerking met het Luthers Bach Ensemble</li>\n</ul>",
