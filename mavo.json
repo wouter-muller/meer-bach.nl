@@ -44,7 +44,13 @@
 			"event-location": "<p>Liudgerkerk</p>\n<p>Zandumerweg 1</p>\n<p>Niekerk (Grootegast)</p>"
 		},
 		{
-			"event-date": "31-12-2019",
+			"event-date": "08-11-2019",
+			"event-time": "20:00",
+			"event-title": "<p>Benefietconcert Johan Brouwer</p>\n<p>Op zijn prachtige kopie van een Vaudry (1681) klavecimbel<br /><br />Meer informatie volgt.</p>",
+			"event-location": "<p>NNTB</p>"
+		},
+		{
+			"event-date": "31-12-2019\n",
 			"event-time": "13:00",
 			"event-title": "<p>Benefietconcert Tymen Jan Bronda en Robert Koolstra<br /><br />Solo en Quatremains.</p>\n<p>Meer informatie volgt.</p>",
 			"event-location": "<p>Lutherse Kerk</p>\n<p>Haddingestraat 23</p>\n<p>Groningen</p>"
