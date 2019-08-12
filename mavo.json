@@ -37,6 +37,7 @@
 			"event-location": "<p>Remonstrantse Kerk<br />Coehoornsingel 14<br />Groningen</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
 			"event-time": "20:00"
 		},
+		{},
 		{
 			"event-date": "12-05-2019",
 			"event-time": "15:00",
@@ -54,6 +55,12 @@
 			"event-time": "13:00",
 			"event-title": "<p>Benefietconcert Tymen Jan Bronda en Robert Koolstra<br /><br />Solo en Quatremains.</p>\n<p>Meer informatie volgt.</p>",
 			"event-location": "<p>Lutherse Kerk</p>\n<p>Haddingestraat 23</p>\n<p>Groningen</p>"
+		},
+		{
+			"event-date": "22-11-2019",
+			"event-time": "20:00",
+			"event-title": "<p>Benefietconcert Robert Koolstra</p>\n<p>Goldberg Variaties bij kaarslicht<br />Bwv 988</p>\n<p>J.S. Bach</p>",
+			"event-location": "<p>Pelstergasthuiskerk</p>\n<p>Pelsterstraat 43</p>\n<p>Groningen</p>"
 		}
 	],
 	"menu-agenda": "Agenda",
