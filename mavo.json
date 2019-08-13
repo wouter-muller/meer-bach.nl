@@ -10,16 +10,8 @@
 	"counter-title": "Klavecimbel teller",
 	"counter-paragraph": "Op dit moment hebben wij nog €34.150 van € 38.586 nodig.",
 	"payment-button2": "Steun ons met een donatie (via iDEAL)",
-	"newsletter-title": "Wilt u zich inschrijven voor onze nieuwsbrief?",
 	"footer-title": "Contact",
-	"footer-address": [
-		"Stichting MeerBach",
-		"Meerhoven 21",
-		"9613 AZ Meerstad",
-		"T: +316 4229 2055",
-		" stichtingmeerbach@gmail.com"
-	],
-	"footer-kvk": "KVK: 73472646",
+	"footer-address": [],
 	"contact-title": "Contact",
 	"contact-subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 	"contact-paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, praesentium laboriosam consequatur minima ipsum itaque est eligendi voluptatum officia sequi esse illum, veritatis, laudantium culpa! Mollitia ipsam harum repellendus dolor!",
@@ -44,24 +36,10 @@
 			"event-location": "<p>Liudgerkerk</p>\n<p>Zandumerweg 1</p>\n<p>Niekerk (Grootegast)</p>"
 		},
 		{},
-		{
-			"event-date": "08-11-2019",
-			"event-time": "20:00",
-			"event-title": "<p>Benefietconcert Johan Brouwer</p>\n<p>Op zijn prachtige kopie van een Vaudry (1681) klavecimbel<br /><br />Meer informatie volgt.</p>",
-			"event-location": "<p>Pelstergasthuiskerk</p>\n<p>Pelsterstraat 43&nbsp;</p>\n<p>Groningen</p>"
-		},
-		{
-			"event-date": "31-12-2019\n",
-			"event-time": "13:00",
-			"event-title": "<p>Benefietconcert Tymen Jan Bronda en Robert Koolstra<br /><br />Solo en Quatremains.</p>\n<p>Meer informatie volgt.</p>",
-			"event-location": "<p>Lutherse Kerk</p>\n<p>Haddingestraat 23</p>\n<p>Groningen</p>"
-		},
-		{
-			"event-date": "22-11-2019",
-			"event-time": "20:00",
-			"event-title": "<p>Benefietconcert Robert Koolstra</p>\n<p>Goldberg Variaties bij kaarslicht<br />Bwv 988</p>\n<p>J.S. Bach</p>",
-			"event-location": "<p>Pelstergasthuiskerk</p>\n<p>Pelsterstraat 43</p>\n<p>Groningen</p>"
-		}
+		{},
+		{},
+		{},
+		{}
 	],
 	"menu-agenda": "Agenda",
 	"projects-content": "<ul>\n<li>Openingsconcert</li>\n<li>Klavecimbelproject met onder andere benefietconcerten</li>\n<li>Basisonderwijs Project</li>\n<li>Concerten in samenwerking met het Luthers Bach Ensemble</li>\n</ul>",
@@ -69,7 +47,7 @@
 	"contact-email": "E-mail adres",
 	"contact-comments": "Opmerkingen",
 	"contact-submit-button": "Versturen",
-	"footer-copyright": "© 2019 Stichting MeerBach ",
+	"footer-copyright": "Stichting MeerBach © 2019",
 	"about-us-title": "Over ons",
 	"about-us-subtitle": "“Meer Bach en meer dan Bach”",
 	"about-us-content": "De Stichting MeerBach is in 2019 opgericht. De twee doelen van de stichting zijn:<br /><br />\n<ul>\n<li>Meer Bach: meer stukken van Bach ten gehore brengen aan een brede doelgroep. Wij willen de schoonheid en pracht van de muziek van Bach in het algemeen, en die van het klavecimbel in het specifiek bekend(er) maken onder een brede doelgroep, zoals jongeren, dertigers, etc.</li>\n<li>Meer dan Bach: er bestaat prachtige Barokmuziek en ook hedendaagse muziek op het klavecimbel die niet dezelfde bekendheid geniet als de muziek van Bach, maar die zeker de moeite waard is. Onze missie is deze muziek te laten horen aan dezelfde brede doelgroep als hierboven benoemd.</li>\n</ul>\nDe naam MeerBach heeft ook een derde en persoonlijke noot. De oprichter van de stichting, Robert Koolstra, is sinds 2018 woonachtig te Meerstad, een woonplaats ten oosten van de stad Groningen. Het meer horende bij Meerstad biedt een mooie balans van ontspanning en inspanning.<br /><br />Het eerste grote project van de stichting is om een klavecimbel aan te schaffen. Dit instrument wordt op zoveel mogelijk terreinen gebruikt om de oude muziek in het algemeen en het muziekinstrument klavecimbel in het bijzonder te promoten. Onder andere het gerenommeerde Luthers Bach Ensemble zal hier gebruik van maken.<br /><br />Het promoten van het klavecimbel zal onder andere gebeuren door het organiseren van een serie van klavecimbel soloconcerten. Naast gevestigde namen willen we hier ook een podium bieden aan jonge, talentvolle klavecinisten.<br /><br />In 2019 wordt er een muziekproject ontwikkeld voor het basisonderwijs om jonge kinderen in contact te brengen met klassieke muziek.<br /><br />In het seizoen 2021/2022 zal Robert Koolstra het complete klavecimbel solowerk van Johan Sebastiaan Bach uitvoeren op het nieuwe klavecimbel en in samenwerking met de Stichting Oude Groninger Kerken in een serie van vijftien concerten.",
