@@ -46,6 +46,12 @@
 			"event-time": "20:00",
 			"event-title": "<p>Benefietconcert bij kaarslicht - Robert Koolstra</p>\n<p>Goldberg variaties Bwv 988<br />J.S.Bach</p>\n<p>&nbsp;</p>",
 			"event-location": "<p>Pelstergasthuiskerk<br />Pelsterstraat 43<br />Groningen</p>"
+		},
+		{
+			"event-date": "31-12-2019",
+			"event-time": "13:00",
+			"event-title": "<p>Benefietconcert Orgel quatremains<br />Tymen Jan Bronda en Robert Koolstra</p>\n<p>Programma volgt.</p>",
+			"event-location": "<p>Lutherse Kerk<br />Haddingestraat 23<br />Groningen</p>"
 		}
 	],
 	"menu-agenda": "Agenda",
