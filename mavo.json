@@ -74,5 +74,6 @@
 			"archive-event-location": "<p>Liudgerkerk</p>\n<p>Zandumerweg 1</p>\n<p>Niekerk (Grootegast)</p>"
 		}
 	],
-	"archive-content": "Blah blah"
+	"archive-content": "Blah blah",
+	"agenda-archive-link": "<a href=\"archief.html\">Archief</a>"
 }
