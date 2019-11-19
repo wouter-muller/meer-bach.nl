@@ -24,12 +24,6 @@
 	"menu-contact": "Contact",
 	"events": [
 		{
-			"event-date": "08-11-2019",
-			"event-time": "20:00",
-			"event-title": "<p>Benefietconcert bij kaarslicht - Johan Brouwer</p>\n<p><span style=\"color: #666666; font-family: Roboto, sans-serif; font-size: 14.4px; background-color: #fefefe;\">Er klinkt muziek van Johann Jakob Froberger, Suite in C-Dur met het prachtige &lsquo;Lamentation&rsquo;op de dood van zijn broodheer Ferdinando IV, een Pr&eacute;lude non mesur&euml; van Louis Couperin waarbij alleen de toonhoogte is genoteerd, maat en ritme worden ge&iuml;mproviseerd, daarnaast een Tombeau op de dood van de gambist Blancheroche.</span><br style=\"box-sizing: inherit; color: #666666; font-family: Roboto, sans-serif; font-size: 14.4px; background-color: #fefefe;\" /><br style=\"box-sizing: inherit; color: #666666; font-family: Roboto, sans-serif; font-size: 14.4px; background-color: #fefefe;\" /><span style=\"color: #666666; font-family: Roboto, sans-serif; font-size: 14.4px; background-color: #fefefe;\">Daarnaast een suite in C-moll van Louis-Nicolas Cl&eacute;rambault en tot slot werken van Johann Sebastian Bach, o.a Franse Suite in Es-Dur, de Preludio pour la Luth o Cembalo en twee Fuga&rsquo;s uit die Kunst der Fuge.</span></p>",
-			"event-location": "<p>Pelstergasthuiskerk<br />Pelsterstraat 43<br />Groningen</p>"
-		},
-		{
 			"event-date": "22-11-2019",
 			"event-time": "20:00",
 			"event-title": "<p>Benefietconcert bij kaarslicht - Robert Koolstra</p>\n<p>Goldberg variaties Bwv 988<br />J.S.Bach</p>\n<p>&nbsp;</p>",
@@ -38,7 +32,7 @@
 		{
 			"event-date": "31-12-2019",
 			"event-time": "13:00",
-			"event-title": "<p>Benefietconcert orgel quatremains<br />Tymen Jan Bronda en Robert Koolstra</p>\n<p>Programma en meer info volgt.</p>",
+			"event-title": "<p>Benefietconcert orgel quatremains<br />Tymen Jan Bronda en Robert Koolstra</p>\n<p class=\"p1\"><span class=\"s1\"><em>Muzikale vrienden Tymen Jan en Robert vieren samen met u oud en nieuw met een feestelijk programma op de vele orgels die de Lutherse kerk rijk is. Met maar liefst 20 vingers beloofd het een spetterend einde te worden van 2019! Twee orgelconcerten van H&auml;ndel staan op het programma waar ze beiden afwisselend het orkest en de solopartij spelen. Verder werk van Johan Chr. Bach, Wesley en Leubeck.</em></span></p>",
 			"event-location": "<p>Lutherse Kerk<br />Haddingestraat 23<br />Groningen</p>"
 		}
 	],
