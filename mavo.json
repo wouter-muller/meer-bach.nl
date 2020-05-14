@@ -7,9 +7,6 @@
 		"Op dit moment zamelen wij geld in voor de bouw van een nieuw klavecimbel voor de Stichting. Dit is een replica van het klavecimbel dat door Michael Mietke voor het hof van Köthen is gebouwd, en waarvoor Bach waarschijnlijk het vijfde Brandenburgse concert heeft geschreven en uitgevoerd."
 	],
 	"payment-button": "Steun ons met een donatie (via iDEAL)",
-	"counter-title": "Klavecimbel teller",
-	"counter-paragraph": "Op dit moment hebben wij nog €29.500 van € 38.586 nodig.",
-	"payment-button2": "Steun ons met een donatie (via iDEAL)",
 	"footer-title": "Contact",
 	"footer-address": [],
 	"contact-title": "Contact",
@@ -46,8 +43,7 @@
 			"event-time": "20:00",
 			"event-title": "<p><span style=\"background-color: #f1f8f9;\">Benefietconcert bij kaarslicht</span><br /><br />Wegen naar Bach - Andr&eacute; poortvliet<br /><br /><span style=\"color: #000000; font-size: 10pt; line-height: 15.3333px; font-family: Calibri, sans-serif;\">Johann Sebastian Bach verloor op jonge leeftijd zijn ouders en woonde vanaf zijn tiende jaar bij zijn oudere broer Johann Christoph in Ohrdruf. Hij maakte daar kennis met een schat aan muziek van oudere generaties musici zoals Froberger, Flor, Pachelbel en Kuhnau. Via zijn leermeester B&ouml;hm kwam hij in contact met Noord-Duitse componisten als Buxtehude en Reincken. In dit concert hoort u hoe gevarieerd de muziek uit Bachs jeugd was en hoe deze muziek hem diepgaand be&iuml;nvloed heeft. Op het programma staan virtuoze toccata&rsquo;s, danssuites, sonatas, variatiereeksen, koraalvoorspelen en meesterlijke fuga&rsquo;s.<br />De conclusie: vele wegen leiden naar Bach&hellip;<strong><u><br /></u></strong></span><br /><span style=\"background-color: #f1f8f9;\">Entree &euro;15 (pinnen mogelijk)</span></p>\n<p>&nbsp;</p>",
 			"event-location": "<p><span style=\"background-color: #f1f8f9;\">Pelstergasthuiskerk</span><br style=\"background-color: #f1f8f9;\" /><span style=\"background-color: #f1f8f9;\">Pelsterstraat 43</span><br style=\"background-color: #f1f8f9;\" /><span style=\"background-color: #f1f8f9;\">Groningen</span></p>"
-		},
-		{}
+		}
 	],
 	"menu-agenda": "Agenda",
 	"projects-content": "<ul>\n<li>Openingsconcert</li>\n<li>Klavecimbelproject met onder andere benefietconcerten</li>\n<li>Basisonderwijs Project</li>\n<li>Concerten in samenwerking met het Luthers Bach Ensemble</li>\n</ul>",
@@ -67,8 +63,7 @@
 	"agenda-title": "Agenda",
 	"support-us-title": "Steun ons",
 	"support-us-content": "Maak onze projecten werkelijkheid en steun ons met een donatie!",
-	"agenda-content": "Kom naar &eacute;&eacute;n van onze evenementen!&nbsp;<a href=\"archief.html\">Archief</a>",
-	"counter-explanation": "Heeft u een betaalbewijs of factuur nodig, geef dit en uw e-mail adres dan aan in het veld onder het door u ingevulde bedrag. Dan sturen we dit zo snel mogelijk naar u toe!\n\nUw gift is aftrekbaar van de belasting omdat wij een ANBI status hebben.",
+	"agenda-content": "Kom naar &eacute;&eacute;n van onze evenementen!&nbsp;",
 	"events-title": "Agenda",
 	"archive-title": "Archief",
 	"archive-events": [
@@ -85,6 +80,5 @@
 			"archive-event-location": "<p>Liudgerkerk</p>\n<p>Zandumerweg 1</p>\n<p>Niekerk (Grootegast)</p>"
 		}
 	],
-	"archive-content": "<strong>8-11-2019&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20:00&nbsp; &nbsp; &nbsp; &nbsp;</strong>Benefietconcert Johan Brouwer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Pelstergasthuiskerk<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Oude franse muziek en Bach op zijn Vaudry klavecimbel",
-	"agenda-archive-link": "<a href=\"archief.html\">Archief</a>"
+	"archive-content": "<strong>8-11-2019&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20:00&nbsp; &nbsp; &nbsp; &nbsp;</strong>Benefietconcert Johan Brouwer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Pelstergasthuiskerk<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Oude franse muziek en Bach op zijn Vaudry klavecimbel"
 }
