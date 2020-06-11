@@ -54,5 +54,47 @@
 	"agenda-content": "Kom naar &eacute;&eacute;n van onze evenementen! <strong><a title=\"Archief\" href=\"archief.html\">Klik hier voor Archief</a></strong>",
 	"events-title": "Agenda",
 	"archive-title": "Archief",
-	"archive-events": []
+	"archive-events": [
+		{
+			"archive-event-date": "15-02-2020",
+			"archive-event-time": "20:00",
+			"archive-event-title": "<p><span style=\"font-size: 13.5pt; font-family: Lato, serif;\">Benefietconcert</span></p>\n<p><span style=\"font-size: 13.5pt; font-family: Lato, serif;\">Wegen naar Bach - Andr&eacute; poortvliet<br /><br /></span><span style=\"color: black; font-size: 10pt; font-family: Calibri, sans-serif;\">Johann Sebastian Bach verloor op jonge leeftijd zijn ouders en woonde vanaf zijn tiende jaar bij zijn oudere broer Johann Christoph in Ohrdruf. Hij maakte daar kennis met een schat aan muziek van oudere generaties musici zoals Froberger, Flor, Pachelbel en Kuhnau. Via zijn leermeester B&ouml;hm kwam hij in contact met Noord-Duitse componisten als Buxtehude en Reincken. In dit concert hoort u hoe gevarieerd de muziek uit Bachs jeugd was en hoe deze muziek hem diepgaand be&iuml;nvloed heeft. Op het programma staan virtuoze toccata&rsquo;s, danssuites, sonatas, variatiereeksen, koraalvoorspelen en meesterlijke fuga&rsquo;s.<br />De conclusie: vele wegen leiden naar Bach&hellip;<strong><u><br /><br /></u></strong></span></p>",
+			"archive-event-location": "<p>Pelstergasthuiskerk</p>"
+		},
+		{
+			"archive-event-date": "17-01-2020",
+			"archive-event-time": "20:00",
+			"archive-event-title": "<p><span style=\"font-size: 13.5pt; font-family: Lato, serif;\">Benefietconcert</span></p>\n<p><span style=\"font-size: 13.5pt; font-family: Lato, serif;\">Rameau 'De franse Bach' - Robert Koolstra<br /></span><span style=\"font-size: 10.5pt; font-family: Lato, serif; color: #1d2129;\">Rameau wordt terecht ook wel &ldquo;de Franse Bach&rdquo; genoemd, hij is de belangrijkste barokcomponist in Frankrijk in dezelfde tijd als Bach. Naast de vele opera&rsquo;s die hij heeft geschreven, zijn er ook veel klavecimbelwerken overgebleven. Koolstra stelt voor dit concert een suite in e-klein voor u samen, waarin ook muziek uit de opera&rsquo;s is te beluisteren. Zo zal u ondermeer een Tambourin en een Musette horen. Het is net alsof u zelf in de opera zit te luisteren naar de Tamboerijn, een Franse doedelzak of prachtige fluiten. Na het concert proosten we graag met u op een nieuw seizoen met Franse wijn en Franse kaas.</span><span style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: #1d2129;\"><br /><br /></span></p>",
+			"archive-event-location": "<p>Pelstergasthuiskerk</p>"
+		},
+		{
+			"archive-event-date": "31-12-2019",
+			"archive-event-time": "15:00",
+			"archive-event-title": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background: white;\"><span style=\"font-size: 13.5pt; font-family: Lato, serif; color: #333333;\">Benefietconcert</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background: white;\"><span style=\"font-size: 13.5pt; font-family: Lato, serif; color: #333333;\">Tymen Jan Bronda en Robert Koolstra</span></p>\n<p><em style=\"color: #000000; font-size: medium;\"><span style=\"font-size: 13.5pt; font-family: Lato, serif; color: #333333;\">Muzikale vrienden Tymen Jan en Robert vieren samen met u oud en nieuw met een feestelijk programma op de vele orgels die de Lutherse kerk rijk is. Met maar liefst 20 vingers beloofd het een spetterend einde te worden van 2019! Twee orgelconcerten van H&auml;ndel staan op het programma waar ze beiden afwisselend het orkest en de solopartij spelen. Verder werk van Johan Chr. Bach, Wesley en Leubeck.<br /><br /></span></em></p>"
+		},
+		{
+			"archive-event-date": "22-11-2019",
+			"archive-event-time": "20:00",
+			"archive-event-title": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 15pt; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"><span style=\"font-size: 13.5pt; font-family: Lato, serif; color: #333333;\">Benefietconcert bij kaarslicht - Robert Koolstra</span></p>\n<p><span style=\"font-size: 13.5pt; font-family: Lato, serif;\">Goldberg variaties Bwv 988<br />J.S.Bach<br /><br /><br /></span></p>",
+			"archive-event-location": "<p>Pelstergasthuiskerk</p>"
+		},
+		{
+			"archive-event-date": "08-11-2019",
+			"archive-event-time": "20:00",
+			"archive-event-title": "<p>Benefietconcert<br /><br />\"Bach, voorlopers en tijdgenoten\" - Johan Brouwer</p>",
+			"archive-event-location": "<p>Pelstergasthuiskerk</p>"
+		},
+		{
+			"archive-event-date": "11-05-2019",
+			"archive-event-title": "<p>Benefietconcert Robert Koolstra</p>\n<p>De virtuoze Bach</p>\n<p>Toccata fis-moll Bwv 910 <br />Toccata d-moll Bwv 913 <br />Toccata G-dur Bwv 916 <br />Engelse Suite a-moll Bwv 807</p>\n<p>Entree &euro;10<br />Alle opbrengsten van dit concert gaan naar het nieuwe klavecimbel voor de stichting.<br /><br />Meer info /reserveren :&nbsp; stichtingmeerbach@gmail.com</p>",
+			"archive-event-location": "<p>Remonstrantse Kerk<br />Coehoornsingel 14<br />Groningen</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+			"archive-event-time": "20:00"
+		},
+		{
+			"archive-event-date": "12-05-2019",
+			"archive-event-time": "15:00",
+			"archive-event-title": "<p>Benefietconcert Robert Koolstra</p>\n<p>&nbsp;De virtuoze Bach</p>\n<p style=\"background-color: #f1f8f9;\">Programma&nbsp;<br />Toccata fis-moll Bwv 910&nbsp;<br />Toccata d-moll Bwv 913&nbsp;<br />Toccata G-dur Bwv 916&nbsp;<br />Engelse Suite a-moll Bwv 807</p>\n<p style=\"background-color: #f1f8f9;\">Entree &euro;10<br />Alle opbrengsten van dit concert gaan naar het nieuwe klavecimbel voor de stichting.<br /><br />Meer info / reserveren: stichtingmeerbach@gmail.com</p>",
+			"archive-event-location": "<p>Liudgerkerk</p>\n<p>Zandumerweg 1</p>\n<p>Niekerk (Grootegast)</p>"
+		}
+	]
 }
