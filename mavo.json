@@ -56,18 +56,14 @@
 	"archive-title": "Archief",
 	"archive-events": [
 		{
+			"archive-event-date": "22-11-2019",
+			"archive-event-title": "<p>Goldberg variatie's Bwv 988- Robert Koolstra</p>"
+		},
+		{
 			"archive-event-date": "15-02-2020",
 			"archive-event-time": "20:00",
 			"archive-event-title": "<p><span style=\"font-size: 13.5pt; font-family: Lato, serif;\">Benefietconcert</span></p>\n<p><span style=\"font-size: 13.5pt; font-family: Lato, serif;\">Wegen naar Bach - Andr&eacute; poortvliet<br /><br /></span><span style=\"color: black; font-size: 10pt; font-family: Calibri, sans-serif;\">Johann Sebastian Bach verloor op jonge leeftijd zijn ouders en woonde vanaf zijn tiende jaar bij zijn oudere broer Johann Christoph in Ohrdruf. Hij maakte daar kennis met een schat aan muziek van oudere generaties musici zoals Froberger, Flor, Pachelbel en Kuhnau. Via zijn leermeester B&ouml;hm kwam hij in contact met Noord-Duitse componisten als Buxtehude en Reincken. In dit concert hoort u hoe gevarieerd de muziek uit Bachs jeugd was en hoe deze muziek hem diepgaand be&iuml;nvloed heeft. Op het programma staan virtuoze toccata&rsquo;s, danssuites, sonatas, variatiereeksen, koraalvoorspelen en meesterlijke fuga&rsquo;s.<br />De conclusie: vele wegen leiden naar Bach&hellip;<strong><u><br /><br /></u></strong></span></p>",
 			"archive-event-location": "<p>Pelstergasthuiskerk</p>"
-		},
-		{
-			"archive-event-date": "22-11-2019",
-			"archive-event-title": "<p>Benefietconcert</p>\n<p>Goldberg Variaties Bwv 988 - Robert Koolstra</p>"
-		},
-		{
-			"archive-event-date": "31-12-2019",
-			"archive-event-title": "<p>Benefietconcert</p>\n<p>Orgel quatremains - Tymen Jan Bronda en Robert Koolstra</p>"
 		},
 		{
 			"archive-event-date": "17-01-2020",
